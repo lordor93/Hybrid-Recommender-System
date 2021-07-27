@@ -5,10 +5,10 @@
 Recommend movies using the item-based and user-based recommender methods for the user whose ID is given. (Ex:user id = 108170)
 # Attribute Information
 ## movie.csv
-movieId – Unique film ids
-title – Title of movies
+- movieId – Unique film ids
+- title – Title of movies
 ## rating.csv
-userid –  Unique user(spectators) ids
-movieId – Unique film ids
-rating – Scores given by users
-timestamp – Assesment dates
+- userid –  Unique user(spectators) ids
+- movieId – Unique film ids
+- rating – Scores given by users
+- timestamp – Assesment dates
